@@ -16,8 +16,10 @@ impossible. __Some sites that are difficult to scrape using IDM or other methods
 - You can always click the "show" button to see all you have been filtering.
 
 ### THIS LIST WILL REMOVE TONS OF SITES, SO BE AWARE YOUR SEARCHES WILL BE REALLY SMALL IN RESULTS.
-This is not "my fault", its because nsfw sites are mostly trash AND the search engines are trash too. 
+This is not "my fault", its because nsfw sites are mostly trash AI generated or bad clones trying to grab your attention to mainstream paid sites AND the search engines are trash too. 
 
 ## HOW TO INSTALL:
 To install, simply unzip and import using ublacklist.
 
+## Why do you share this zipped?
+Because last time I did without zipping it, github banned my repo for "nsfw".
