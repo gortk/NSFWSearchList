@@ -5,7 +5,7 @@
 
 
 # NSFW Search Filters
-A repository with webfilters mostly for ublacklist.
+A repository with search filters for ublacklist.
 This is not an anti-nsfw content list. It is there to filter crap sites and make your life easier while
 browsing for content.
 
