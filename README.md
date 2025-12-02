@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://github.com/gortk/WebFilters/blob/main/NSFW/9406005.png" width="128">
+</p>
+
+
+
 # NSFW WebFilters
 A repository with webfilters mostly for ublacklist.
 This is not an anti-nsfw content list. It is there to filter crap sites and make your life easier while
